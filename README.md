@@ -1,3 +1,6 @@
+![screenshot](./images/img.png)
+![screenshot](./images/img2.png)
+
 # My nvim configuration
 this is my really simple nvim config (i am using windows)
 
