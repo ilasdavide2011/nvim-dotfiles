@@ -42,4 +42,9 @@ return require('packer').startup(function(use)
       {'L3MON4D3/LuaSnip'},     -- Required
     }
   }
+
+  use {
+    'mattn/emmet-vim',
+    ft = {'html', 'css', 'javascript', 'typescript', 'vue', 'svelte', 'markdown'},
+  }
 end)
